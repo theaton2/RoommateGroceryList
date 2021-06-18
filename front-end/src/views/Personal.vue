@@ -15,6 +15,7 @@
           </form>
         </div>
       </div>
+      <br/><br/>
       <grocery-list :groceryList="groceryList"/>
     </div>
     <Login v-else/>
